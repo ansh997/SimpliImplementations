@@ -4,9 +4,10 @@
 
 ---
 
-> *"The best way to understand something is to build a small, working version of it."*
+<p align="center"><strong><em>"The best way to understand something is to build a small, working version of it."</em></strong></p>
 
 ---
+
 
 ## Overview
 
