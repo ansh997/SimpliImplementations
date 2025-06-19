@@ -1,7 +1,10 @@
 """
 Title: [Paper Title]
+
 Authors: [Author names]
+
 Link: [https://arxiv.org/abs/XXXX.XXXXX]
+
 Original Idea Summary: [2-3 lines of plain English]
 """
 
