@@ -1,12 +1,10 @@
-"""
-Title: [Paper Title]
+<pre> 
+  Title: [Paper Title] 
+  Authors: [Author names] 
+  Link: https://arxiv.org/abs/XXXX.XXXXX 
+  Original Idea Summary: [2-3 lines of plain English]
+</pre>
 
-Authors: [Author names]
-
-Link: [https://arxiv.org/abs/XXXX.XXXXX]
-
-Original Idea Summary: [2-3 lines of plain English]
-"""
 
 ```Python
 import torch
