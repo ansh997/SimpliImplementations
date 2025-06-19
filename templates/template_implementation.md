@@ -5,6 +5,7 @@ Link: [https://arxiv.org/abs/XXXX.XXXXX]
 Original Idea Summary: [2-3 lines of plain English]
 """
 
+```Python
 import torch
 import numpy as np
 from transformers import AutoTokenizer, AutoModelForCausalLM
@@ -23,3 +24,5 @@ input_ids = tokenizer(prompt, return_tensors="pt").input_ids.cuda()
 # Decode output
 # output_text = tokenizer.decode(output_ids[0], skip_special_tokens=True)
 # print(output_text)
+```
+> Additional Remarks
