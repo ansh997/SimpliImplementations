@@ -96,4 +96,3 @@ print(output_text)
 | `compute_prob(model, context, target_token)`  | Compute probability of target\_token given context | `model: LM`, `context: Tensor`, `target_token: Tensor` | `prob: float`            |
 | `propose_k_tokens(draft_model, input_ids, k)` | Generate k tokens using draft model                | `draft_model: LM`, `input_ids: Tensor`, `k: int`       | `Tensor of shape [1, k]` |
 
-In this implementation, I directly inlined these instead of abstracting into helper functions.
